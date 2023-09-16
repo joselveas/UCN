@@ -1,4 +1,4 @@
-//Punteros y asignación dinámica de memoria
+//Punteros y asignación dinámica de memoria 
 
 #include <iostream>
 using namespace std;
