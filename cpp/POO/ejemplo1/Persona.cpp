@@ -9,4 +9,4 @@ Persona::~Persona(){};
 string Persona::getNombre(){return this -> nombre;}
 int Persona::getEdad(){return this -> edad;};
 void Persona::setNombre(string nombre){this -> nombre = nombre;};
-void Persona::setEdad(int edad){this -> edad = edad;};  
+void Persona::setEdad(int edad){this -> edad = edad;};
