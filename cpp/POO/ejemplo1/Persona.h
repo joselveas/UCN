@@ -1,3 +1,4 @@
+//Header de clase Persona.
 #pragma once
 #include <iostream>
 

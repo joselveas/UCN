@@ -1,3 +1,4 @@
+//ejemplo creación de clase y objeto.
 #include <iostream>
 #include "Persona.h"
 using namespace std;

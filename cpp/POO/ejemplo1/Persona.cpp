@@ -1,4 +1,5 @@
 #include <Persona.h>
+//cpp de clase Persona.
 #include <iostream>
 #include "Persona.h"
 using namespace std;
