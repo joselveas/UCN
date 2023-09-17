@@ -1,3 +1,4 @@
+//ejemplo de creacion de arrays de objetos.
 #include <iostream>
 #include "Alumno.h"
 #include "Persona.h"

@@ -1,3 +1,4 @@
+//clase alumno.
 #pragma once
 #include <iostream>
 #include "Persona.h"
