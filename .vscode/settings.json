@@ -1,3 +1,4 @@
+//configuracion de uso para minggw en vscode
 {
     "files.associations": {
         "iostream": "cpp",
