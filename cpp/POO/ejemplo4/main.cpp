@@ -1,3 +1,4 @@
+//ejemplo de herencia con polimorfismo.
 #include <iostream>
 #include "Alumno.h"
 #include "Persona.h"

@@ -1,3 +1,4 @@
+//clase persona.
 #include <iostream>
 #include "Persona.h"
 
