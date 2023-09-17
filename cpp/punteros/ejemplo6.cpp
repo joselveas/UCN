@@ -1,4 +1,4 @@
-//Punteros y cadenas de caracteres
+//Punteros y cadenas de caracteres.
 
 #include <iostream>
 using namespace std;

@@ -1,4 +1,4 @@
-//Arrays y punteros
+//Arrays y punteros.
 
 #include <iostream>
 using namespace std;

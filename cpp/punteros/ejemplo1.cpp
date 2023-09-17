@@ -1,4 +1,4 @@
-//Punteros básicos
+//Punteros básicos.
 
 #include <iostream>
 using namespace std;

@@ -1,4 +1,4 @@
-//Punteros y estructuras
+//Punteros y estructuras.
 
 #include <iostream>
 using namespace std;
