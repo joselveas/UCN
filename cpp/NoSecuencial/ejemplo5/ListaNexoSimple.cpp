@@ -54,7 +54,6 @@ NodoSimple* ListaNexoSimple::buscarNodo(string nombre)
         }
         aux = aux->getSiguiente();
     }
-    cout<<"El valor no se encuentra en la lista"<<endl;
     return NULL;
 };
 void ListaNexoSimple::insertarInicio(NodoSimple* nuevo)
